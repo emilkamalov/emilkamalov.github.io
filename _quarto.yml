@@ -11,7 +11,7 @@ website:
         text: Home
       - publications.qmd
       - data_collection.qmd
-  favicon: logo.png
+  favicon: logo_top.png
 
 format:
   html:
