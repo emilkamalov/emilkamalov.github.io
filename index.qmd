@@ -1,11 +1,17 @@
 ---
-title: "emilkamalov.github.io"
+title: "Emil Kamalov"
 ---
 
-This is a Quarto website.
+I am a PhD researcher at the European University Institute, Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I am interested in quantitative methods, experiments and surveys. I am a co-founder and co-principal investigator (together with Ivetta Sergeeva) of two survey projects: OutRush and ViolenceMonitor. OutRush is a panel survey of war-induced Russian emigrants who left Russia after 24 February, 2022. ViolenceMonitor is a series of intimate partner violence victimization surveys that took place in 2021 in Russia.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Interests
 
-```{r}
-1 + 1
-```
+-   Political Behvaior
+
+-   Violence and Repressions
+
+-   Experiments
+
+-   Survey Methods
+
+### 
