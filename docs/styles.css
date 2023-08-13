@@ -1,1 +1,15 @@
 /* css styles */
+.navbar-dark .navbar-brand {
+  background-size: contain;
+  padding-left: 20px !important;
+  padding-right: 5px !important; 
+  background-repeat: no-repeat;
+}
+
+
+.navbar-logo {
+    max-height: 50px;
+    max-width: 65px;
+    height: 50px;
+    width: 65px;
+}

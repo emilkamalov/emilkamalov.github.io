@@ -4,7 +4,7 @@ image: profile.png
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 15em
+  image-width: 18em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/emil-kamalov/
@@ -16,8 +16,11 @@ about:
       href: mailto:emil.kamalov@eui.eu
 
 ---
+I am a PhD researcher at the European University Institute, Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I am interested in quantitative methods, experimental and surveys methods. Prior to EUI I was working as a junior research fellow at Ronald F. Inglehart Laboratory for Comparative Social Research and taught quantitative methods at Higher School of Economics and European University at Saint Petersburg.
 
-I am a PhD researcher at the European University Institute, Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I am interested in quantitative methods, experiments and surveys. I am a co-founder and co-principal investigator of two survey projects: [OutRush](https://outrush.io/eng) and [ViolenceMonitor](https://violencemonitor.org/). OutRush is a panel survey of war-induced Russian emigrants who left Russia after 24 February, 2022. ViolenceMonito    r is a series of intimate partner violence victimization surveys that took place in 2021 in Russia.
+With [Ivetta Sergeeva](https://www.eui.eu/people?id=ivetta-sergeeva), I am a co-founder and co-principal investigator of two survey projects: [OutRush](https://outrush.io/eng) and [ViolenceMonitor](https://violencemonitor.org/). OutRush is a panel survey of war-induced Russian emigrants who left Russia after 24 February, 2022. ViolenceMonitor is a series of intimate partner violence victimization surveys that took place in 2021 in Russia.
+
+
 
 ### Interests
 
@@ -25,4 +28,51 @@ I am a PhD researcher at the European University Institute, Florence. I study po
 -   Violence and Repressions
 -   Experiments
 -   Survey Methods
+
+
+### Education
+
+### Projects
+
+### Publications
+#### Peer-review articles
+
+Studying Public Opinion Among Migrants: Challenges and Opportunities.  Russian Analytical Digest, 2023, No. 292. Co-authored with I. Sergeeva, M. Zavadskaya, V. Kostenko
+
+Factors of mass support for the government in the times of structural reforms. Political science (RU), 2021, N 2. Co-authored with B. Sokolov, M. Zavadskaya (in Russian)
+
+National Pride and Subjective Well-being of Russians. Monitoring of Public Opinion: Economic and Social Changes (RU). 2020 No. 1. P. 177—205. Co-authored with E. Ponarin (in Russian)
+
+Subjective Well-being of Migrants in Russia: Effects of Regional Characteristics and Migration Legislation. Journal of Economic Sociology (RU). Vol. 21. No 1. Co-authored with E. Ponarin (in Russian)
+
+ 
+
+#### Working Papers
+
+Gender Gap in Political Behaviour of War-induced Russian Emigrants. Co-authored with K. Nugumanova and I. Sergeeva.
+
+Measuring Prevalence Rates of Intimate Partner Violence in Russia: experimental comparison of different modes of surveying. Co-authored with I. Sergeeva.
+
+Solidarity Between New Russian Migrants: Evidence from a Conjoint Experiment. Co-authored with I. Sergeeva.
+
+The effect of discrimination on the political behavior of recent migrants: evidence from two waves of the panel survey of new Russian migrants. Co-authored with I. Sergeeva.
+
+Democracy in Exile? Trajectories of Russian Anti-War Migrants in Eurasia. Co-authored with M. Zavadskaya and I. Sergeeva.
+
+Can media framing increase support for health reform? Results of the Conjoint Experiment. Co-authored with B. Sokolov, M. Zavadskaya and I. Sergeeva.
+
+#### Media and Policy Papers
+
+Partner violence in Russia: results of a series of surveys. Co-authored with I. Sergeeva. (Forthcoming)
+
+The Russian Rhizome: a Social Portrait of New Immigrants. Re-Russia, 2023. Co-authored with V. Kostenko, M. Zavadskaya, I. Sergeeva.
+
+New activists or new ‘common folk?’ The evolution of political activism among Russian anti-war emigrants. Russia.Post, 2023. Co-authored with M. Zavadskaya, I. Sergeeva, V. Kostenko
+
+Six Months in Emigration: How Life has Changed for New Russian Emigrants. Report on The Second Wave of the OutRush Project Survey. URL: outrush.io/report_september_2022. 2022. Co-authored with I. Sergeeva, V. Kostenko, M. Zavadskaya
+
+Russia’s 2022 Anti-War Exodus: The Attitudes and Expectations of Russian Migrants. Ponars Eurasia, 2022. Coauthored with V. Kostenko, M. Zavadskaya, I. Sergeeva
+
+The Great Exodus: A Portrait of New Migrants from Russia. Report on the results of the March 2022 survey by the OutRush project. 2022. URL: outrush.io/report_march_2022. Co-authored with I. Sergeeva, V. Kostenko, M. Zavadskaya
+
 

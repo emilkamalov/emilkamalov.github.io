@@ -5,10 +5,13 @@ project:
 website:
   title: "Emil Kamalov"
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
+      - data_collection.qmd
+  favicon: logo.png
 
 format:
   html:
