@@ -12,7 +12,9 @@ website:
 
 format:
   html:
-    theme: Simplex
+    theme:
+      light: Simplex
+      dark: Darkly
     css: styles.css
     toc: true
 
