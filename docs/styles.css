@@ -1,7 +1,7 @@
 /* css styles */
 .navbar-dark .navbar-brand {
   background-size: contain;
-  padding-left: 20px !important;
+  padding-left: 12px !important;
   padding-right: 5px !important; 
   background-repeat: no-repeat;
 }

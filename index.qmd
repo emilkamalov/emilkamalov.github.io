@@ -1,6 +1,6 @@
 ---
 title: "Emil Kamalov"
-image: profile.png
+image: profile_main.png
 about: 
   template: trestles
   image-shape: rounded
