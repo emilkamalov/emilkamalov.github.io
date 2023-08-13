@@ -1,10 +1,10 @@
 ---
 title: "Emil Kamalov"
-1image: emil_picture.jpg
+image: profile.png
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 23em
+  image-width: 15em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/emil-kamalov/
@@ -22,10 +22,7 @@ I am a PhD researcher at the European University Institute, Florence. I study po
 ### Interests
 
 -   Political Behvaior
-
 -   Violence and Repressions
-
 -   Experiments
-
 -   Survey Methods
 
