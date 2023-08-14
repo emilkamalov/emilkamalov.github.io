@@ -13,6 +13,7 @@ website:
         text: Home
       - publications.qmd
       - projects.qmd
+      - CV.qmd
   favicon: logo_flavicon.png
   
   page-footer:
