@@ -18,8 +18,7 @@ about:
     - icon: rocket
       text: University Page
       href: https://www.eui.eu/people?id=emil-kamalov
-    - icon: email
-      text: Email
+    - text: Email
       href: mailto:emil.kamalov@eui.eu
 ---
 
