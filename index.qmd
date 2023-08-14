@@ -21,10 +21,8 @@ about:
     - icon: email
       text: Email
       href: mailto:emil.kamalov@eui.eu
-
 ---
+
 I am a PhD researcher at the European University Institute, Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I am interested in quantitative methods, experimental and surveys methods. Prior to EUI I was working as a junior research fellow at Ronald F. Inglehart Laboratory for Comparative Social Research and taught quantitative methods at Higher School of Economics and European University at Saint Petersburg.
 
 With [Ivetta Sergeeva](https://www.eui.eu/people?id=ivetta-sergeeva), I am a co-founder and co-principal investigator of two survey projects: [OutRush](https://outrush.io/eng) and [ViolenceMonitor](https://violencemonitor.org/). OutRush is a panel survey of war-induced Russian emigrants who left Russia after 24 February, 2022. ViolenceMonitor is a series of intimate partner violence victimization surveys that took place in 2021 in Russia.
-
-
