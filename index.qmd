@@ -6,13 +6,20 @@ about:
   image-shape: rounded
   image-width: 18em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/emil-kamalov/
-    - text: Twitter
+    - icon: twitter
+      text: Twitter
       href: https://twitter.com/emkamalov
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/emilkamalov
-    - text: Email
+    - icon: rocket
+      text: University Page
+      href: https://www.eui.eu/people?id=emil-kamalov
+    - icon: email
+      text: Email
       href: mailto:emil.kamalov@eui.eu
 
 ---
