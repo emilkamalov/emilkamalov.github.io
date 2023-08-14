@@ -4,20 +4,35 @@ project:
 
 website:
   title: "Emil Kamalov"
+  description: "Website of Emil Kamalov"
   navbar:
+    background: "#DA5F47"
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
       - publications.qmd
       - data_collection.qmd
-  favicon: logo_top.png
-
+  favicon: logo_flavicon.png
+  
+  page-footer:
+    left: |
+      <br>
+      {{< fa regular copyright >}} Emil Kamalov, 2023<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
+      Opinions are my own and do not represent my employer
+      
+    right: |
+      ![Logo image](logo_bottom.png){width=70px}<br>
+      Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
+      Inspiration and code snippets taken from [one](https://ucsb-meds.github.io/creating-quarto-websites/) and [two](https://www.andreashandel.com/)
+      
 format:
   html:
     theme:
-      light: Simplex
-      dark: Darkly
+      light: [matria,styles.scss]
+      dark: [Slate,styles.scss]
     css: styles.css
     toc: true
 
