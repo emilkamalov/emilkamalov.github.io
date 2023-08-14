@@ -35,6 +35,7 @@ format:
       dark: [Slate,styles.scss]
     css: styles.css
     toc: true
+    linkcolor: "#DA5F47"
 
 editor: visual
 
