@@ -15,17 +15,7 @@
 }
 
 
-$blue:    #267ee3 !default;
-$indigo:  #6610f2 !default;
-$gray-765: #373a3c !default;
-$gray-800: #373a3c !default;
-$pink:    #A52C60 !default;
-$red:     #CF4446 !default;
-$orange:  #EE6A24 !default;
-$yellow:  #F6D645 !default;
-$green:   #118230 !default;
-$teal:    #20c997 !default;
-$cyan:    #3093CF !default;
+
 
 
 /*-- scss:rules --*/
@@ -72,3 +62,9 @@ $cyan:    #3093CF !default;
   background-color: white;
   border-bottom-right-radius: 10px;
 }
+
+
+a:hover {
+  color: #red;
+}
+

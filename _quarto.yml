@@ -4,22 +4,27 @@ project:
 
 website:
   title: "Emil Kamalov"
-  description: "Website of Emil Kamalov"
+  description: "Emil Kamalov: Personal Website"
+  search: true
   navbar:
-    background: "#B23535"
+    background: "#fcf9f2"
+    foreground: "black"
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
       - publications.qmd
       - projects.qmd
+      - teaching.qmd
+      - conferences_and_workshops.qmd
+      - academic_activities.qmd
       - CV.qmd
+
   favicon: logo_flavicon.png
   
   page-footer:
+    background: "#464646"
     left: |
-      <br>
-      <br>
       <br>
       <br>
       {{< fa regular copyright >}} Emil Kamalov, 2023<br>
@@ -28,9 +33,7 @@ website:
       Opinions are my own and do not represent my employer
       
     right: |
-      ![Logo image](logo_bottom.png){width=70px}<br>
-      <br>
-      <br>
+      ![Logo image](logo_bottom_white.png){width=70px}<br>
       <br>
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [one](https://ucsb-meds.github.io/creating-quarto-websites/) and [two](https://www.andreashandel.com/)
@@ -39,10 +42,13 @@ format:
   html:
     theme:
       light: [matria,styles.scss]
-      dark: [Slate,styles.scss]
     css: styles.css
     toc: true
-    linkcolor: "#B23535"
+    linkcolor: "#000000"
+    backgroundcolor: "#fcf9f2"
+    mainfont: "Roboto"
+    fontsize: 12pt 
+    
 
 editor: visual
 
