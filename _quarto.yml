@@ -16,7 +16,6 @@ website:
       - publications.qmd
       - projects.qmd
       - teaching.qmd
-      - conferences_and_workshops.qmd
       - academic_activities.qmd
       - CV.qmd
 
