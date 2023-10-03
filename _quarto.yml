@@ -22,7 +22,7 @@ website:
   favicon: logo_flavicon.png
   
   page-footer:
-    background: "#464646"
+    background: "#121212"
     left: |
       <br>
       <br>
