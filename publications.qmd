@@ -1,17 +1,25 @@
 ---
 title: "Publications and Media"
+description: "Publications and Media"
+title-block-banner: "#464646"
+engine: knitr 
 ---
-<!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
 
-<style>
-.title {
-  font-size: 0px;
+```{css, echo=FALSE}
+
+#title-block-header .title {
+    display: none;
 }
-</style>
 
+#title-block-header .description {  /* Adapt based on the actual class or ID */
+    color: white;
+    font-size: 1.7em;  /* Adjust as needed */ 
+    font-weight: bold;  /* Makes the text bold */
+}
 
+```
 
-### Peer-reviewed Articles
+## Peer-reviewed Articles
 
 [Factors of mass support for the government in the times of structural reforms](http://inion.ru/en/publishing/journals-recommended-by-the-high-certification-commission/political-science-old/arkhiv/2021-2-institutcional-nye-reformy/faktory-massovoi-podderzhki-pravitel-stva-v-usloviiakh-provedeniia-strukturnykh-reform-factors-of-mass-support-for-government/). *Political science*, 2021, N 2. Co-authored with B. Sokolov, M. Zavadskaya (in Russian). <details><summary>Abstract</summary>
 *Any country in order to stay afloat sooner or later is forced to under-take large-scale internal reforms in various policy areas. However, structural reforms often bear adverse consequences for the population. As the studies of the US and Euro-pean states show, one of the most crucial negative consequences is the decrease in mass support for the government that has initiated the reform. The latter manifests itself in a drop of approval ratings, trust in government, propensity to vote for the incumbent at the forthcoming elections. Such a decrease may lead to decreased legitimacy of the political power, thereby destabilizing the current political system. Is it possible to strike the balance between the necessity of reform and upholding trust on the society’s be-half? Can a government carry out painful reforms without provoking hatred? What conditions facilitate such balance? Although the factors of mass support play the central role in nowadays’ political science, the answers to the questions mentioned above re-main unanswered. This article examines different options available to governments in order to preserve their mass support and legitimacy when conducting unpopular re-forms, with a special emphasis on media framing. Using various theoretical sources and the recent literature on political support in Russia, it identifies various factors that may facilitate the use of the latter option in the Russian context.*
@@ -28,7 +36,7 @@ title: "Publications and Media"
 </details>
 
 
-### Working Papers
+## Working Papers
 
 Gendered Response to War: Analysing Patterns of Political Activism of Post-War Russian Emigrants, 2022-2023. Co-authored with K. Nugumanova and I. Sergeeva.
 <details><summary>Abstract</summary>
@@ -59,7 +67,7 @@ Can media framing increase support for health reform? Results of the Conjoint Ex
 <!-- <details><summary>Abstract</summary> -->
 
 <!-- </details> -->
-### Survey Reports
+## Survey Reports
 
 [Six Months in Exile: A New Life of Russian Emigrants](https://osf.io/preprints/socarxiv/epn2c/). *SocArXiv*, 2023. Co-authored with I. Sergeeva, V. Kostenko, M. Zavadskaya.
 
@@ -70,7 +78,7 @@ Can media framing increase support for health reform? Results of the Conjoint Ex
 
 
 
-### Policy and Media Papers
+## Policy and Media Papers
 
 [New Russian Migrants Against the War: Political Action in Russia and Abroad](https://library.fes.de/pdf-files/international/20458.pdf). *Friedrich-Ebert-Stiftung*, 2023. Co-authored with I. Sergeeva, M. Zavadskaya, V. Kostenko. 
 
@@ -88,7 +96,7 @@ Can media framing increase support for health reform? Results of the Conjoint Ex
 
 [Happiness in Times of Crisis: How Russians Survive the Covid-19 Pandemic](https://cyberleninka.ru/article/n/schastie-vo-vremya-krizisa-kak-rossiyane-perezhivayut-pandemiyu-covid-19). Sociodigger, 2021. (In Russian).
 
-### Interviews
+## Interviews
 
 [Новая русская эмиграция: кто, куда и зачем уезжает из России сегодня](https://open.spotify.com/episode/3n2gfxhNFRaSmrK8BFzE5U). *Юра, мы всё узнали* (Podcast), 2023.
 

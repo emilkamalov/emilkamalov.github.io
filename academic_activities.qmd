@@ -1,18 +1,49 @@
 ---
 title: "Academic Activities"
+description: "Academic Activities"
+title-block-banner: "#464646"
+engine: knitr 
 ---
 
-<!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
+```{css, echo=FALSE}
 
-<style>
-.title {
-  font-size: 0px;
+#title-block-header .title {
+    display: none;
 }
-</style>
 
-Here about:
+#title-block-header .description {  /* Adapt based on the actual class or ID */
+    color: white;
+    font-size: 1.7em;  /* Adjust as needed */ 
+    font-weight: bold;  /* Makes the text bold */
+}
 
--   participation in conferences, workshops, roundtables
--   organizations of conferences: ultimate conference
--   organization of workshops and summer schools (EUSP workshop)
+```
+
+
+## Conferences and Workshops
+
+-   September, 2023. Portulans Institute. Oxford Roundtable: How The Conflict In Ukraine Could Reshape Global Information, Communication, And Security. Topic presented: *The Role of Communication Networks Among Russian Emigrants in Shaping Political Discourse*.
+-   February, 2023. ZOiS Workshop: Exploring the New Exodus from Russia: Migration, Adaptation and Transnational Engagement. Topics presented: a) *Six months in emigration: the emergence of transnational social networks among new Russian emigrants*. b) *Democracy in Exile? Estimating the Capacity for Collective Action among Russian Anti-War Migrants. Evidence from a Panel Survey*.
+-   January, 2023. Robert Schuman Centre for Advanced Studies, Migration Working Group, European University Institute, Florence. Topic presented: *The effect of discrimination on the political behavior of recent migrants: evidence from two waves of the panel survey of new Russian migrants*.
+-   December, 2022. Aleksanteri Institute, University of Helsinki: Elections after 2022: The Short and Long-Term Impact of the Russian Invasion of Ukraine. Topic presented: *Helping to flee a political crisis: a Conjoint Experiment of Russian Migrants*.
+-   November, 2022. Robert Schuman Centre for Advanced Studies, Migration Working Group, European University Institute, Florence. Topic presented: *Solidarity Between New Russian Migrants: Evidence from a Conjoint Experiment*.
+-   April, 2023. XXII April International Academic Conference on Economic and Social Development, Higher School of Economics, Moscow. Topic presented: *Surveying Post-2022 Emigrants from Russia with OutRush Project: Methodological Issues and Limitations*.
+-   April, 2021. XXI April International Academic Conference on Economic and Social Development, Higher School of Economics, Moscow. Topic presented: *The Effects of Unhappiness on Preferences for Redistribution*.
+-   October, 2020. X Grushin Sociological Conference, Moscow. Topic presented: *National Pride and Subjective Well-being of Russians*.
+-   May, 2019. 4th International Russia Longitudinal Monitoring Survey of HSE User Conference. Higher School of Economics, University of North Carolina -- Chapel Hill, Moscow. Topic presented: *Subjective Well-being of Migrants in Russia: Effects of Regional Characteristics and Migration Legislation*.
+
+
+## Additional Education
+
+-   January, 2022. Global Corruption Workshop, Boris Nemtsov Foundation for Freedom.
+-   September-December, 2018. Exchange student in Jyvaskyla University, Finland.
+-   August 20-31, 2018 LCSR Summer School -- 2018 "Bayesian Statistical Analyses for Social Scientists".
+-   June 26-29, 2018 Summer School on Migration organized by Russian Red Cross.
+
+
+## Organization of Conferences and Workshops
+
+-   April, 2021. [The First Ultimate Conference](http://1ultimateconference.tilda.ws). Standup Conference on Non-serious Topics, but with Serious Methods. European University in Saint Petersburg. Role: co-organizer and moderator.
+-   May, 2020. Spring School: Strategies for Polical Research. European University in Saint Petersburg. Role: co-organizer of hackathon.
+
 

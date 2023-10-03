@@ -1,19 +1,29 @@
 ---
 title: "Projects"
+description: "Research Projects"
+title-block-banner: "#464646"
+engine: knitr 
 ---
 
-<!-- This css code to control size of the page title. Here it is 0 to make it invisible -->
+```{css, echo=FALSE}
 
-<style>
-.title {
-  font-size: 0px;
+#title-block-header .title {
+    display: none;
 }
-</style>
 
-### Panel-survey of War-induced Russian Emigrants: OutRush Project. 2022 - ongoing
+#title-block-header .description {  /* Adapt based on the actual class or ID */
+    color: white;
+    font-size: 1.7em;  /* Adjust as needed */ 
+    font-weight: bold;  /* Makes the text bold */
+}
 
-Some information
+```
 
-### Intimate Partner Violence in Russia: ViolenceMonitor Project: 2021
+## Panel-survey of War-induced Russian Emigrants
 
-Some information
+I am a principal investigator in [OutRush project](https://outrush.io/eng). This is a panel survey of Russian emigrants who left Russia after February 24, 2022. To date, the project has collected data in three waves, with a total of 10,000 respondents residing in more than 100 countries. The project involves a number of experiments as well as qualitative interviews.
+
+
+## Intimate Partner Violence in Russia
+
+I am a principal investigator in [Violence Monitor project](https://violencemonitor.org/) -- a series of surveys on intimate partner violence conducted in Russia in 2021. The project includes several survey and field experiments aimed at enhancing the disclosure of intimate partner violence.
