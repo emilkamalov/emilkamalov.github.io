@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Emil Kamalov",
     "section": "",
-    "text": "I am a PhD researcher in the Department of Political and Social Sciences at the European University Institute (EUI), Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I love statistics, experimental and surveys methods.\nPrior to EUI I was working as a junior research fellow at Ronald F. Inglehart Laboratory for Comparative Social Research and taught quantitative methods at Higher School of Economics (HSE) and European University at Saint Petersburg. I received a Master’s degree in Social Sciences from HSE, and a Bachelor’s degree in Economics from a university in the middle of Russia. I also happen to have a Candidate of Sciences degree in Social Philosophy.\nWith Ivetta Sergeeva, I am a co-founder and co-principal investigator of two multi-wave survey projects: OutRush and ViolenceMonitor. OutRush is a panel survey of war-induced Russian emigrants who left Russia after 24 February, 2022. ViolenceMonitor is a series of intimate partner violence victimization surveys that took place in 2021 in Russia."
+    "text": "I am a PhD researcher in the Department of Political and Social Sciences at the European University Institute (EUI), Florence. I study political behavior, violence, repressions and war-induced Russian emigration. I love statistics, experimental and surveys methods.\nPrior to EUI I was working as a junior research fellow at Ronald F. Inglehart Laboratory for Comparative Social Research and taught quantitative methods at Higher School of Economics (HSE) and European University at Saint Petersburg. I received a Master’s degree in Social Sciences from HSE, and a Bachelor’s degree in Economics from a university in the middle of Russia. I also happen to have a Candidate of Sciences degree in Social Philosophy.\nAlongside Ivetta Sergeeva, I am a co-founder and co-principal investigator of two multi-wave survey projects: OutRush and ViolenceMonitor. OutRush is a panel survey of Russian emigrants who left the country due to war after February 24, 2022. ViolenceMonitor focuses on intimate partner violence and conducted victimization surveys in Russia in 2021. Both projects have received wide media coverage, both in Russia and internationally, from outlets such as The Wall Street Journal, CNN, Al Jazeera, BBC, CNBC, Meduza, Forbes Russia and The Moscow Times."
   },
   {
     "objectID": "docs/readme.html",
@@ -151,13 +151,20 @@
     "href": "projects.html#panel-survey-of-war-induced-russian-emigrants",
     "title": "Projects",
     "section": "Panel-survey of War-induced Russian Emigrants",
-    "text": "Panel-survey of War-induced Russian Emigrants\nI am a principal investigator in OutRush project. This is a panel survey of Russian emigrants who left Russia after February 24, 2022. To date, the project has collected data in three waves, with a total of 10,000 respondents residing in more than 100 countries. The project involves a number of experiments as well as qualitative interviews."
+    "text": "Panel-survey of War-induced Russian Emigrants\nI am the Principal Investigator for the OutRush project, a panel survey focused on Russian emigrants who left Russia after February 24, 2022. To date, we have collected data across three waves, involving a total of 10,000 respondents residing in more than 100 countries. The project employs a diverse range of research methods, including both experiments and qualitative interviews. Our collected data has received extensive media coverage, both in Russia and internationally. Media outlets that have cited our data include The Wall Street Journal, CNN, Al Jazeera, BBC, Ponars, Fortune, Meduza, and The Moscow Times, among others (see more here). Based on this data, we have published several media and policy papers and are currently preparing multiple academic papers."
   },
   {
     "objectID": "projects.html#intimate-partner-violence-in-russia",
     "href": "projects.html#intimate-partner-violence-in-russia",
     "title": "Projects",
     "section": "Intimate Partner Violence in Russia",
-    "text": "Intimate Partner Violence in Russia\nI am a principal investigator in Violence Monitor project – a series of surveys on intimate partner violence conducted in Russia in 2021. The project includes several survey and field experiments aimed at enhancing the disclosure of intimate partner violence."
+    "text": "Intimate Partner Violence in Russia\nI am the Principal Investigator for the Violence Monitor project, a series of surveys focused on intimate partner violence conducted in Russia in 2021. The project encompasses various research methods, including several survey and field experiments designed to enhance the disclosure of intimate partner violence. Our work has received media coverage from outlets such as Forbes Russia, Moscow FM, PaperPaper, Holod, and others (see more here). We have published a report on measuring violence and its prevalence rates in Russia here and are currently in the process of preparing several academic papers."
+  },
+  {
+    "objectID": "projects.html#corruption-tolerance",
+    "href": "projects.html#corruption-tolerance",
+    "title": "Projects",
+    "section": "Corruption Tolerance",
+    "text": "Corruption Tolerance\nI served as a Research Assistant in a project led by Miriam Golden, Raymond Fisman, and Matteo Ferroni. The project aimed to measure perceptions and norms of corruption among legislators and citizens in three countries: Colombia, Italy, and Pakistan. My responsibilities included conducting descriptive statistics and managing recruitment. For the recruitment process, I automated email communications using R."
   }
 ]
