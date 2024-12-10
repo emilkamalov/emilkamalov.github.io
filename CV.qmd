@@ -74,7 +74,4 @@ cv:
 <div class="embed-container">
   <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
 </div>
-
 ```
-
-
