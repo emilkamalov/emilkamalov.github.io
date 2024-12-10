@@ -1,7 +1,7 @@
 ---
 title: "CV"
 description: "Curriculum Vitae"
-date: 10-03-2023
+date: 10-12-2024
 title-block-banner: "#464646"
 published-title: CV last updated
 engine: knitr 
