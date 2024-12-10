@@ -19,7 +19,6 @@ engine: knitr
 
 ```
 
-
 ## Conferences and Workshops
 
 -   September, 2023. Portulans Institute. Oxford Roundtable: How The Conflict In Ukraine Could Reshape Global Information, Communication, And Security. Topic presented: *The Role of Communication Networks Among Russian Emigrants in Shaping Political Discourse*.
@@ -32,7 +31,6 @@ engine: knitr
 -   October, 2020. X Grushin Sociological Conference, Moscow. Topic presented: *National Pride and Subjective Well-being of Russians*.
 -   May, 2019. 4th International Russia Longitudinal Monitoring Survey of HSE User Conference. Higher School of Economics, University of North Carolina -- Chapel Hill, Moscow. Topic presented: *Subjective Well-being of Migrants in Russia: Effects of Regional Characteristics and Migration Legislation*.
 
-
 ## Additional Education
 
 -   January, 2022. Global Corruption Workshop, Boris Nemtsov Foundation for Freedom.
@@ -40,10 +38,7 @@ engine: knitr
 -   August 20-31, 2018 LCSR Summer School -- 2018 "Bayesian Statistical Analyses for Social Scientists".
 -   June 26-29, 2018 Summer School on Migration organized by Russian Red Cross.
 
-
 ## Organization of Conferences and Workshops
 
 -   April, 2021. [The First Ultimate Conference](http://1ultimateconference.tilda.ws). Standup Conference on Non-serious Topics, but with Serious Methods. European University in Saint Petersburg. Role: co-organizer and moderator.
 -   May, 2020. Spring School: Strategies for Polical Research. European University in Saint Petersburg. Role: co-organizer of hackathon.
-
-

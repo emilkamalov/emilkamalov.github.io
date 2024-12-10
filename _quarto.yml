@@ -9,7 +9,7 @@ website:
   navbar:
     background: "#fcf9f2"
     foreground: "black"
-    logo: logo_grey.png
+    #logo: logo_grey.png
     left:
       - href: index.qmd
         text: Home
@@ -20,34 +20,32 @@ website:
       - CV.qmd
 
   favicon: logo_flavicon.png
-  
+
   page-footer:
     background: "#121212"
     left: |
-      <br>
-      <br>
-      {{< fa regular copyright >}} Emil Kamalov, 2023<br>
-      All content licensed under {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
+      <br><br>
+      <i class="fa-regular fa-copyright"></i> Emil Kamalov, 2023<br>
+      All content licensed under
+      <i class="fa-brands fa-creative-commons"></i> <i class="fa-brands fa-creative-commons-by"></i> 
+      <i class="fa-brands fa-creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc"></i> 
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
       Opinions are my own and do not represent my employer
-      
+
     right: |
-      ![Logo image](logo_bottom_white.png){width=70px}<br>
-      <br>
+      ![Logo image](logo_bottom_white.png){width=70px}<br><br>
       Made with [R-Studio](https://posit.co/download/rstudio-desktop/) and [Quarto](https://quarto.org/)<br>
       Inspiration and code snippets taken from [one](https://ucsb-meds.github.io/creating-quarto-websites/) and [two](https://www.andreashandel.com/)
-      
+
 format:
   html:
     theme:
-      light: [matria,styles.scss]
+      light: [matria, styles.scss]
     css: styles.css
     toc: true
     linkcolor: "#000000"
     backgroundcolor: "#fcf9f2"
-    mainfont: "Roboto"
-    fontsize: 12pt 
-    
+    fontsize: 12pt
+    #mainfont: Roboto 
 
 editor: visual
-

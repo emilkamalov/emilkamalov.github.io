@@ -30,4 +30,3 @@ I am the Principal Investigator for the [Violence Monitor project](https://viole
 ## Corruption Tolerance
 
 I served as a Research Assistant in a project led by [Miriam Golden](https://www.miriamgolden.com/), [Raymond Fisman](https://sites.bu.edu/fisman/), and [Matteo Ferroni](https://www.matteo-ferroni.com/). The project aimed to measure perceptions and norms of corruption among legislators and citizens in three countries: Colombia, Italy, and Pakistan. My responsibilities included conducting descriptive statistics and managing recruitment. For the recruitment process, I automated email communications using R.
-
