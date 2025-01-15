@@ -21,6 +21,7 @@ engine: knitr
 ```
 
 ## Job Market Paper
+
 [Unintended Consequences of Transnational Repressions: How Exile Organizations Gain Support in Response to Criminalization by Autocratic Homelands](https://osf.io/preprints/socarxiv/wks2m), with Ivetta Sergeeva
 
 <details>
@@ -33,7 +34,7 @@ engine: knitr
 
 ## Peer-Reviewed Publications
 
-["Democracy in Exile? Trajectories of Russian Anti-War Migrants in Eurasia"](https://osf.io/preprints/socarxiv/3dnsv), with Ivetta Sergeeva and Margarita Zavadskaya. In *Global Migration and Illiberalism in Russia, Eurasia and Eastern Europe*, Helsinki University Press (Accepted/In press - 8 Jul 2024)
+["Voice after Exit? Exploring Patterns of Civic Activism among Russian Migrant Communities in Eurasia after 24 February 2022"](https://hup.fi/site/chapters/e/10.33134/HUP-26-8/), with Margarita Zavadskaya and Ivetta Sergeeva. In *Global Migration and Illiberalism in Russia, Eurasia and Eastern Europe*, Helsinki University Press, 2024
 
 <details>
 
@@ -43,8 +44,7 @@ engine: knitr
 
 </details>
 
-
-**In Russian: ** 
+**In Russian:**
 
 [Factors of mass support for the government in the times of structural reforms](http://inion.ru/en/publishing/journals-recommended-by-the-high-certification-commission/political-science-old/arkhiv/2021-2-institutcional-nye-reformy/faktory-massovoi-podderzhki-pravitel-stva-v-usloviiakh-provedeniia-strukturnykh-reform-factors-of-mass-support-for-government/). Political science (RU), 2021, with Boris Sokolov, Margarita Zavadskaya
 
@@ -56,7 +56,7 @@ engine: knitr
 
 </details>
 
-[National Pride and Subjective Well-being of Russians](https://www.ssoar.info/ssoar/handle/document/74840). Monitoring of Public Opinion: Economic and Social Changes,  with E. Ponarin
+[National Pride and Subjective Well-being of Russians](https://www.ssoar.info/ssoar/handle/document/74840). Monitoring of Public Opinion: Economic and Social Changes, with E. Ponarin
 
 <details>
 
@@ -76,18 +76,9 @@ engine: knitr
 
 </details>
 
-## Articles Under Review
-["Invisible Costs of Exiting Autocracy: Subjective Well-being and Emotional Burnout Among Russian Wartime Migrants"](https://osf.io/preprints/socarxiv/2wmuy), with Ivetta Sergeeva. (*Revise & Resubmit*)
+## Revise and Resubmit
 
-<details>
-
-<summary>Abstract</summary>
-
-*Due to political crises, millions of people have moved beyond their autocratic home countries in search of a more secure life. However, the influence and control of these autocratic regimes often follow them on this journey. By examining the case of Russian emigration following the full-fledged invasion of Ukraine in 2022, we demonstrate how the direct and indirect actions of autocratic home countries can undermine the subjective well-being of migrants. Utilizing a unique panel survey and in-depth interviews, our findings reveal that the actions of autocratic home countries are significantly connected to the migrants' well-being, often more so than traditional determinants like income and employment. Fears of transnational repression, instilled by the Russian government and widespread among Russian migrants, correlate with a reduction in subjective well-being comparable to the effects of income loss and unemployment. Notably, the fear of discrimination, stemming from a host-country backlash against the actions of autocrats, has a more detrimental effect on well-being than experienced discrimination, highlighting the psychological toll of anticipatory fears. The study also finds that group-based guilt and a sense of responsibility for Russia's actions in Ukraine may further exacerbate subjective well-being of migrants. The paper concludes that autocratic regimes maintain a substantial influence on the lives of their emigrants, frequently intensifying the potential negative impact of host countries. This research contributes to a deeper understanding of the complex factors affecting the well-being of individuals forced to emigrate due to political crises. It also sheds light on how autocrats potentially diminish the resilience of political migrants to engage in home-country politics by undermining their psychological resources for action.*
-
-</details>
-
-["Helping to Flee a Political Crisis: a Conjoint Experiment of Russian Migrants"](https://osf.io/qg3sx), with Ivetta Sergeeva
+["Helping to Flee a Political Crisis: a Conjoint Experiment of Russian Migrants"](https://osf.io/qg3sx), with Ivetta Sergeeva (*Perspectives on Politics*)
 
 <details>
 
@@ -97,9 +88,7 @@ engine: knitr
 
 </details>
 
-
-"Measuring Intimate Partner Violence in Middle-Income country: Evidence from Series of List Experiments and Self-Administered Surveys" (available on request)
-
+["Measuring Intimate Partner Violence in Middle-Income country: Evidence from Series of List Experiments and Self-Administered Surveys"](https://drive.google.com/file/d/1W_YbiAa7VgFQ26PWyFKXYzMJjelVoifn/view?usp=sharing), with Ivetta Sergeeva (*Sociological Methods and Research*)
 
 <details>
 
@@ -109,15 +98,26 @@ engine: knitr
 
 </details>
 
+["Invisible Costs of Exiting Autocracy: Subjective Well-being and Emotional Burnout Among Russian Wartime Migrants"](https://osf.io/preprints/socarxiv/2wmuy), with Ivetta Sergeeva. (*Post-Soviet Affairs*)
+
+<details>
+
+<summary>Abstract</summary>
+
+*Due to political crises, millions of people have moved beyond their autocratic home countries in search of a more secure life. However, the influence and control of these autocratic regimes often follow them on this journey. By examining the case of Russian emigration following the full-fledged invasion of Ukraine in 2022, we demonstrate how the direct and indirect actions of autocratic home countries can undermine the subjective well-being of migrants. Utilizing a unique panel survey and in-depth interviews, our findings reveal that the actions of autocratic home countries are significantly connected to the migrants' well-being, often more so than traditional determinants like income and employment. Fears of transnational repression, instilled by the Russian government and widespread among Russian migrants, correlate with a reduction in subjective well-being comparable to the effects of income loss and unemployment. Notably, the fear of discrimination, stemming from a host-country backlash against the actions of autocrats, has a more detrimental effect on well-being than experienced discrimination, highlighting the psychological toll of anticipatory fears. The study also finds that group-based guilt and a sense of responsibility for Russia's actions in Ukraine may further exacerbate subjective well-being of migrants. The paper concludes that autocratic regimes maintain a substantial influence on the lives of their emigrants, frequently intensifying the potential negative impact of host countries. This research contributes to a deeper understanding of the complex factors affecting the well-being of individuals forced to emigrate due to political crises. It also sheds light on how autocrats potentially diminish the resilience of political migrants to engage in home-country politics by undermining their psychological resources for action.*
+
+</details>
 
 ## Papers in Progress (available on request)
+
 "How to Maintain a Panel of Political Migrants: Evidence from a Field Experiment", with Ivetta Sergeeva
 
 "Can Media Framing Increase Support for Health Reform? Results of the Conjoint Experiment", with Boris Sokolov, Margarita Zavadskaya and Ivetta Sergeeva
 
-"Gendered Response to War: Explaining Gender Gap in Political Activism of Wartime Russian Emigrants, 2022-2023", with Karolina Nugumanova and Ivetta Sergeeva  
+"Gendered Response to War: Explaining Gender Gap in Political Activism of Wartime Russian Emigrants, 2022-2023", with Karolina Nugumanova and Ivetta Sergeeva
 
 <details>
+
 <summary>Abstract</summary>
 
 *In the wake of Russia's invasion of Ukraine, gender dynamics in political activism have come to the fore. While the media has reported extensively on the rise of a feminist anti-war resistance movement, the question remains whether there are indeed tangible gender differences in the political behaviour of post-war migrants and, if so, what factors underpin these differences. Although historical narratives depict politics as a predominantly male domain, with women traditionally showing lower levels of political engagement, recent shifts suggest a more complex landscape. Analyzing data from the OutRush panel survey, this study reveals that women, despite reporting heightened feelings of depression and a bleak outlook, consistently exhibit increased political and civic activism compared to men—except in assistance to fellow Russians. Intriguingly, conventional indicators, such as political interest and trust, displayed no gender disparity. A regression analysis posits that feelings of responsibility and the urge for reparations account for the observed gender gap, suggesting that these emotions might play a pivotal role in fueling women's political fervor. To refine our understanding of gendered motivations, a forthcoming Blinder-Oaxaca decomposition analysis will examine whether emotions such as responsibility and reparations drive political and civic engagement differently across genders. The quantitative data is complemented by extensive qualitative research, including interviews with numerous feminist anti-war resistance activists. These interviews explore their personal views on the contrasting experiences of male and female activists, and examines how gender norms and institutional frameworks in their host countries either support or hinder their activist endeavours. This research hopes to illuminate the intricate tapestry of gendered political activism in post-war migration scenarios.*
@@ -125,7 +125,6 @@ engine: knitr
 </details>
 
 "The Effect of Discrimination on the Political Behavior of Recent Migrants: Evidence from Two Waves of the Panel Survey of New Russian Migrants", with Ivetta Sergeeva
-
 
 ## Policy Briefs and Media Columns
 
@@ -135,7 +134,7 @@ Policy brief, [Far from Home: Russians Relocating to Latin America](https://www.
 
 Research report, [A Year and a Half in Exile: Progress and Obstacles in the Integration of Russian Migrants](https://osf.io/preprints/socarxiv/ckf4v), *SocArXiv*, 2024, with Ivetta Sergeeva
 
-Policy brief, [In their Own Voice:  Supporting Russia’s Wartime Migrants](https://www.ponarseurasia.org/in-their-own-voice-supporting-russias-wartime-migrants/), *Ponars Eurasia*, with Rergina Smyth, Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko, Michail Turchenko, Andrey Semenov
+Policy brief, [In their Own Voice: Supporting Russia’s Wartime Migrants](https://www.ponarseurasia.org/in-their-own-voice-supporting-russias-wartime-migrants/), *Ponars Eurasia*, with Rergina Smyth, Ivetta Sergeeva, Margarita Zavadskaya, Veronica Kostenko, Michail Turchenko, Andrey Semenov
 
 Research report, [Six Months in Exile: A New Life of Russian Emigrants](https://osf.io/preprints/socarxiv/epn2c/). *SocArXiv*, 2023, with Ivetta Sergeeva, Veronica Kostenko, Margarita Zavadskaya
 
@@ -154,7 +153,6 @@ Research report, [Partner Violence in Russia: Results of a Series of Surveys](ht
 Research report, [The Great Exodus: A Portrait of New Migrants from Russia. Report on the results of the March 2022 survey](https://outrush.io/report_march_2022). *OutRush*, 2022, with Ivetta Sergeeva, Veronica Kostenko, Margarita Zavadskaya
 
 Policy brief, [Russia's 2022 Anti-War Exodus: The Attitudes and Expectations of Russian Migrants](https://www.ponarseurasia.org/russias-2022-anti-war-exodus-the-attitudes-and-expectations-of-russian-migrants/). *Ponars Eurasia*, 2022, with Ivetta Sergeeva, Veronica Kostenko, Margarita Zavadskaya
-
 
 ## Interviews
 
