@@ -34,7 +34,7 @@ engine: knitr
 
 ## Peer-Reviewed Publications
 
-["Helping to Flee a Political Crisis: How Antiwar Alignment Shapes the Aid Preferences of Wartime Russian Migrants"](https://drive.google.com/file/d/1Nwox_BE_15nwqmmSDZjLt1FmQeHixvUp/view?usp=drive_link), with Ivetta Sergeeva. In *Perspectives on Politics* (2025) (Conditionally accepted)
+["Helping to Flee a Political Crisis: How Antiwar Alignment Shapes the Aid Preferences of Wartime Russian Migrants"](https://drive.google.com/file/d/1Nwox_BE_15nwqmmSDZjLt1FmQeHixvUp/view?usp=drive_link), with Ivetta Sergeeva. In *Perspectives on Politics* (2025) (Forthcoming)
 
 ["Invisible Costs of Exiting Autocracy: Subjective Well-being and Emotional Burnout Among Russian Wartime Migrants"](https://www.tandfonline.com/doi/full/10.1080/1060586X.2025.2477417), with Ivetta Sergeeva, *Post-Soviet Affairs* (2025)
 
