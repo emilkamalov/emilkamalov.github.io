@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+  resources:
+    - CNAME
 
 website:
   title: "Emil Kamalov"
@@ -25,7 +29,7 @@ website:
     background: "#121212"
     left: |
       <br><br>
-      <i class="fa-regular fa-copyright"></i> Emil Kamalov, 2023<br>
+      <i class="fa-regular fa-copyright"></i> Emil Kamalov, 2026<br>
       All content licensed under
       <i class="fa-brands fa-creative-commons"></i> <i class="fa-brands fa-creative-commons-by"></i> 
       <i class="fa-brands fa-creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc"></i> 

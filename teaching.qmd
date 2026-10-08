@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-description: "Teaching Courses"
+description: "Teaching and Advising"
 title-block-banner: "#464646"
 engine: knitr 
 ---
@@ -19,11 +19,23 @@ engine: knitr
 
 ```
 
-|   | **Course** | **University** | **Level** | **Year** | Role |
-|----|----|----|----|----|----|
-| 1 | Intermediate Quantitative Methods in Social Sciences | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Masters | 2021 | Lecturer |
-| 2 | [Research Seminar Quantitative Methods in Political Research](https://spb.hse.ru/en/ma/pm/courses/375308895.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/pm), Russia | Masters | 2021 | Lecturer |
-| 3 | [Methodology of Contemporary Asian Studies](https://spb.hse.ru/en/ma/econasia/courses/375309025.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia | Masters | 2020-2021 | Lecturer |
-| 4 | [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist) | [Yandex & European University in Saint Petersburg](https://pandan.eusp.org/) | Masters | 2020 | Lecturer |
-| 5 | R-crash course | [European University in Saint Petersburg](https://eusp.org/en/sociology) | Masters | 2020 | Lecturer |
-| 6 | [Methodology for Sociopolitical Research in East Asia](https://spb.hse.ru/en/ma/econasia/courses/298723267.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/econasia), Russia | Masters | 2019-2020 | Lecturer |
+## Courses
+
+|   | **Course** | **University** | **Level** | **Language** | **Year** | **Role** |
+|----|----|----|----|----|----|----|
+| 1 | The Long Arm of Autocracies: Post-Soviet Regimes, Their Diasporas, and Transnational Repression | [Columbia University](https://www.columbia.edu), USA | Advanced undergraduate / graduate seminar | English | Spring 2027 and Spring 2028 (scheduled) | Instructor |
+| 2 | [Research Seminar: Quantitative Methods in Political Research](https://web.archive.org/web/20231130185428/https://spb.hse.ru/en/ma/pm/courses/375308895.html) | [Higher School of Economics](https://spb.hse.ru/en/ma/pm), Russia | Master's | English | 2021 | Instructor |
+| 3 | Intermediate Quantitative Methods in Social Sciences<br><small>*Student evaluation: highest rating on all dimensions (4 of 7 students responding)*</small> | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Master's | Russian | 2021 | Instructor |
+| 4 | [Methodology of Contemporary Asian Studies](https://web.archive.org/web/20251013130929/https://spb.hse.ru/en/ma/econasia/courses/375309025.html) | [Higher School of Economics](https://spb.hse.ru/en/), Russia | Master's | English | 2020-2021 | Instructor |
+| 5 | [Introduction to Statistics with R](https://pandan.eusp.org/lecturerslist) | [Yandex & European University in Saint Petersburg](https://pandan.eusp.org/), Russia | Master's | Russian | 2020 | Instructor |
+| 6 | R-Crash Course | [European University in Saint Petersburg](https://eusp.org/en/sociology), Russia | Master's | Russian | 2020 | Instructor |
+| 7 | [Methodology for Sociopolitical Research in East Asia](https://web.archive.org/web/20200811170022/https://spb.hse.ru/en/ma/econasia/courses/298723267.html)<br><small>*Student evaluation: 4.75/5 (22 students responding)*</small> | [Higher School of Economics](https://spb.hse.ru/en/), Russia | Master's | English | 2019-2020 | Instructor |
+
+: {tbl-colwidths="[3,38,25,14,9,20,11]"}
+
+## Student Advising
+
+**Program Coordinator & Student Advising**, Stanford U.S.–Russia Forum (SURF), Stanford University, USA, 2025–2026
+
+- Co-organized and coordinated two cross-university conferences (Stanford, USA; Charles University, Czech Republic)
+- Supported 50 students across Stanford and Charles University; advised on program deliverables and paper/presentation requirements

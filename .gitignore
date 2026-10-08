@@ -5,3 +5,6 @@
 .DS_Store
 
 /.quarto/
+
+# CV sources and build files (contain details not meant for the website)
+kamalov_cv_upd.*
